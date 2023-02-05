@@ -58,6 +58,8 @@ hs_err_pid*
 
 # production
 **/build
+**/src/main/resources/public
+
 
 # misc
 .DS_Store
