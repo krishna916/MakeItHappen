@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MakeItHappenApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MakeItHappenApplication.class, args);
+		System.out.println("HELLO WORLD");
 	}
 
 }
